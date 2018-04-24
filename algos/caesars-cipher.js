@@ -1,5 +1,5 @@
 // Warning! Extreme lazy ahead
-// For 'cleaner' version, see here (coded in C): https://github.com/MattPKobus/cs50/blob/master/week1/cipher.c
+// For 'cleaner' version, see (coded in C): https://github.com/MattPKobus/cs50/blob/master/week1/cipher.c
 
 function rot13(str) {
  
